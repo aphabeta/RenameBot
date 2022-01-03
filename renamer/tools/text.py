@@ -22,11 +22,7 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
-
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
-
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Channel:** [IU](https://t.me/hellohoneybunny)
 """
 
     HELP_USER = """**Follow Below Steps:**
